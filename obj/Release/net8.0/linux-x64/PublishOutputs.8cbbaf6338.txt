@@ -1,2 +1,0 @@
-/home/ben-landrette/code/current-projects/small-projects/tabspace/bin/Release/net8.0/linux-x64/publish/tabspace.pdb
-/home/ben-landrette/code/current-projects/small-projects/tabspace/bin/Release/net8.0/linux-x64/publish/tabspace
